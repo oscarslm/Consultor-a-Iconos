@@ -1,0 +1,2 @@
+[07-Oct-2017 15:37:02 UTC] PHP Notice:  Undefined index: template-contactform-botcheck in /home/consul95/public_html/include/sendemail.php on line 37
+[11-Oct-2018 11:42:09 UTC] PHP Notice:  Undefined index: template-contactform-botcheck in /home/consul95/public_html/include/sendemail.php on line 37

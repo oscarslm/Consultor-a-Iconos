@@ -1,0 +1,418 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Hanlding Updates
+-----------------------------------------------------------------*/
+
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans:300i,400');
+
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,400i,700');
+
+
+#wrapper {
+	overflow-x: hidden;
+}
+
+#sidenav-overlay {
+    z-index: 198;
+}
+
+#content p {
+    line-height: 1.5;
+}
+
+.justify-align {
+	text-align: justify;
+}
+
+#primary-menu.style-2 > div > ul > li > a {
+    text-transform: capitalize;
+    transition: 600ms;
+}
+
+nav.style-2 {
+	    background-color: #353C4B;
+}
+
+#nav_mobile {
+	background-color: #353C4B;
+}
+
+@media (max-width: 991px) {
+	#header.sticky-style-2 #header-wrap {
+		min-height: 50px;
+	}
+}
+
+nav .button-collapse:hover {
+	color: #00cdbd;
+}
+
+#text-parallax {
+	font-weight: 300;
+	text-align: justify;
+}
+
+.content-wrap {
+    padding: 0;
+}
+
+.parallax {
+	    z-index: 0;
+}
+
+#header.sticky-header:not(.static-sticky) #header-wrap {
+	height: 50px;
+}
+
+#header.sticky-style-2 #header-wrap {
+    height: 50px;
+}
+
+@media only screen and (min-width: 601px) {
+	nav.style-2 {
+		height: 50px;
+    	line-height: 50px;
+	}
+}
+
+#primary-menu ul li > a {
+	line-height: 13px;
+	color: white;
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: 300;
+}
+
+#header.sticky-style-2 {
+    height: 153px;
+}
+
+.pleca {
+	height: 55px;
+	width: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.hover-identidad-corporativa {
+	width: 300px !important;
+	height: 300px !important;
+	display: block;
+	transition: 1000ms !important;
+	background-image: url('/images/imagen-digital-identidad.jpg') !important;
+}
+
+.hover-identidad-corporativa:hover {
+	width: 300px !important;
+	height: 300px !important;
+	background-image: url('/images/imagen-digital-above.jpg') !important;
+}
+
+.hover-social-media {
+	width: 300px !important;
+	height: 300px !important;
+	display: block;
+	transition: 1000ms !important;
+	background-image: url('/images/imagen-digital-mkt.jpg') !important;
+}
+
+.hover-social-media:hover {
+	width: 300px !important;
+	height: 300px !important;
+	background-image: url('/images/imagen-digital-mkt-above.jpg') !important;
+}
+
+.hover-marketing-on-line {
+	width: 300px !important;
+	height: 300px !important;
+	display: block;
+	transition: 1000ms !important;
+	background-image: url('/images/imagen-digital-social.jpg') !important;
+}
+
+.hover-marketing-on-line:hover {
+	width: 300px !important;
+	height: 300px !important;
+	background-image: url('/images/imagen-digital-media-above.jpg') !important;
+}
+
+.hover-personal {
+	 margin-bottom: 10px;
+	 width: 300px;
+	 height:300px;
+	 display:block;
+	 background:transparent url('/images/personal-boton-servicios-08.jpg') center top no-repeat;
+ 	transition: 1500ms;
+}
+
+.hover-personal:hover {
+   	background-image: url('/images/personal-boton-servicios-hover-08.jpg');
+   	width: 300px;
+ 	height:300px;
+ 	transition: 1500ms;
+}
+
+.hover-shopper {
+	 margin-bottom: 10px;
+	 width: 300px;
+	 height:300px;
+	 display:block;
+	 background:transparent url('/images/shopper-boton-servicios-08.jpg') center top no-repeat;
+ 	transition: 1500ms;
+}
+
+.hover-shopper:hover {
+   	background-image: url('/images/shopper-boton-servicios-hover-08.jpg');
+   	width: 300px;
+ 	height:300px;
+ 	transition: 1500ms;
+}
+
+.hover-verbal {
+	 margin-bottom: 10px;
+	 width: 300px;
+	 height:300px;
+	 display:block;
+	 background:transparent url('/images/verbal-boton-servicios-08.jpg') center top no-repeat;
+ 	transition: 1500ms;
+}
+
+.hover-verbal:hover {
+   	background-image: url('/images/verbal-boton-servicios-hover-08.jpg');
+   	width: 300px;
+ 	height:300px;
+ 	transition: 1500ms;
+}
+
+.hover-profesional {
+	 margin-bottom: 10px;
+	 width: 300px;
+	 height:300px;
+	 display:block;
+	 background:transparent url('/images/profesional-boton-servicios-08.jpg') center top no-repeat;
+ 	transition: 1500ms;
+}
+
+.hover-profesional:hover {
+   	background-image: url('/images/profesional-boton-servicios-hover-08.jpg');
+   	width: 300px;
+ 	height:300px;
+ 	transition: 1500ms;
+}
+
+.hover-atencion {
+	 margin-bottom: 10px;
+	 width: 300px;
+	 height:300px;
+	 display:block;
+	 background:transparent url('/images/atencion-boton-servicios-08.jpg') center top no-repeat;
+ 	transition: 1500ms;
+}
+
+.hover-atencion:hover {
+   	background-image: url('/images/atencion-boton-servicios-hover-08.jpg');
+   	width: 300px;
+ 	height:300px;
+ 	transition: 1500ms;
+}
+
+.hover-politica {
+	 margin-bottom: 10px;
+	 width: 300px;
+	 height:300px;
+	 display:block;
+	 background:transparent url('/images/politica-boton-servicios-08.jpg') center top no-repeat;
+ 	transition: 1500ms;
+}
+
+.hover-politica:hover {
+   	background-image: url('/images/politica-boton-servicios-hover-08.jpg');
+   	width: 300px;
+ 	height:300px;
+ 	transition: 1500ms;
+}
+
+.hover-ambiental {
+	 margin-bottom: 10px;
+	 width: 300px;
+	 height:300px;
+	 display:block;
+	 background:transparent url('/images/boton-servicios-express.jpg') center top no-repeat;
+ 	transition: 1500ms;
+}
+
+.hover-ambiental:hover {
+   	background-image: url('/images/boton-hover-express.jpg');
+   	width: 300px;
+ 	height:300px;
+ 	transition: 1500ms;
+}
+
+.hover-digital {
+	 margin-bottom: 10px;
+	 width: 300px;
+	 height:300px;
+	 display:block;
+	 background:transparent url('/images/digital-boton-servicios-08.jpg') center top no-repeat;
+ 	transition: 1500ms;
+}
+
+.hover-digital:hover {
+   	background-image: url('/images/digital-boton-servicios-hover-08.jpg');
+   	width: 300px;
+ 	height:300px;
+ 	transition: 1500ms;
+}
+
+.hover-corporativa {
+	 margin-bottom: 10px;
+	 width: 300px;
+	 height:300px;
+	 display:block;
+	 background:transparent url('/images/corporativa-boton-servicios-08.jpg') center top no-repeat;
+ 	transition: 1500ms;
+}
+
+.hover-corporativa:hover {
+   	background-image: url('/images/corporativa-boton-servicios-hover-08.jpg');
+   	width: 300px;
+ 	height:300px;
+ 	transition: 1500ms;
+}
+
+.ei-slider {
+    height: 550px;}
+
+ .bg-contacto {
+ 	background-color: #F7F7F7;
+ 	width: 100%;
+ 	height: auto;
+ }
+
+ #copyrights {
+    padding: 20px 0;
+ }
+
+ #primary-menu.style-2 > div > ul {
+    margin: 0 auto;
+    list-style: none;
+    overflow: hidden;
+    width: 100%;
+}
+
+#primary-menu ul > li {
+    margin-left: 0;
+    width: 14%;
+    text-align: center;
+}
+
+.stretched #gotoTop {
+    border-radius: 50%;
+}
+
+@media only screen and (min-width: 993px) {
+	#toast-container {
+	    top: 4%;
+	    right: 1%;
+	    max-width: 100%;
+	}
+	#toast-container > div {
+		width: 330px;
+	}
+}
+
+.rosa1 {
+	background-color: #f6eff6;
+}
+
+.rosa2 {
+	background-color: #f5e9f7;
+}
+
+.gris {
+	background-color: #ececee; 
+}
+
+.azul1 {
+	background-color: #e6ebf1;
+}
+
+.azul2 {
+	background-color: #d7e1ed;
+}
+
+.azul3 {
+	background-color: #cde5ff;
+}
+
+.tarjeta {
+	    width: 100%;
+	    min-height: 360px;
+	    position: relative;
+	    padding: 15px 15px;
+	    margin-bottom: 10px;
+	}
+
+@media (min-width: 1201px) {
+	.tarjeta {
+	    width: 100%;
+	    min-height: 450px;
+	    position: relative;
+	    padding: 30px 20px;
+	    margin-bottom: 15px;
+	}
+}
+
+@media (max-width: 992px) {
+	.tarjeta {
+	    width: 100%;
+	    min-height: auto;
+	    position: relative;
+	    padding: 15px 15px;
+	    margin-bottom: 10px;
+	}
+}
+
+@media (min-width: 1350px) {
+	#text_photo {
+		margin-top: 50px;
+		margin-bottom: 50px;
+	}
+}
+
+strong {
+    font-weight: bold;
+}
+
+.font300 {font-weight: 300;}
+
+.plecas_politica {
+	background-color: lightgray;
+	padding: 15px;
+}
+
+.pleca_corporativa {
+	padding: 20px;
+    background: lightgray;
+    min-height: 376px;
+    margin-bottom: 10px;
+}
+
+/*@media (min-width: 1601px) {
+	.parallax {
+		background-size: cover;
+	}
+}*/
+
+@media (max-width: 479px) {
+	#slider {
+		width: 100% !important;
+	}
+	div.content-wrap > div.container {
+	    width: 90% !important;
+	}
+}
