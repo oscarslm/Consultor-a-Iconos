@@ -26,6 +26,12 @@
 	text-align: justify;
 }
 
+@media (min-width: 1280px) {
+	.stretched #wrapper {
+		margin: 0 auto;
+	}
+}
+
 #primary-menu.style-2 > div > ul > li > a {
     text-transform: capitalize;
     transition: 600ms;

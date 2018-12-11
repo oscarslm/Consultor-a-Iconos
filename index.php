@@ -399,31 +399,31 @@
 
 					<div class="container">
 						<div class="masonry-thumbs col-5" data-lightbox="gallery">
+							<a href="images/gal1.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/gal1.jpg" alt="Galería Iconos"></a>
+							<a href="images/gal2.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/gal2.jpg" alt="Galería Iconos"></a>
+							<a href="images/gal3.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/gal3.jpg" alt="Galería Iconos"></a>
+							<a href="images/gal4.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/gal4.jpg" alt="Galería Iconos"></a>
+							<a href="images/gal5.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/gal5.jpg" alt="Galería Iconos"></a>
+							<a href="images/gal6.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/gal6.jpg" alt="Galería Iconos"></a>
+							<a href="images/gal7.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/gal7.jpg" alt="Galería Iconos"></a>
+							<a href="images/gal8.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/gal8.jpg" alt="Galería Iconos"></a>
+							<a href="images/gal9.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/gal9.jpg" alt="Galería Iconos"></a>
+							<a href="images/gal10.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/gal10.jpg" alt="Galería Iconos"></a>
 							<a href="images/galeria1.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/galeria1.jpg" alt="Gallery Thumb 1"></a>
-							<a href="images/galeria2.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/galeria2.jpg" alt="Gallery Thumb 2"></a>
-							<a href="images/galeria3.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/galeria3.jpg" alt="Gallery Thumb 3"></a>
-							<a href="images/galeria4.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/galeria4.jpg" alt="Gallery Thumb 4"></a>
 							<a href="images/galeria5.jpg" class="hide" data-lightbox="gallery-item"><img class="image_fade" src="images/galeria5.jpg" alt="Gallery Thumb 5"></a>
 							<a href="images/galeria6.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/galeria6.jpg" alt="Gallery Thumb 6"></a>
 							<a href="images/galeria7.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/galeria7.jpg" alt="Gallery Thumb 7"></a>
 							<a href="images/galeria8.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/galeria8.jpg" alt="Gallery Thumb 9"></a>
 							<a href="images/galeria9.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/galeria9.jpg" alt="Gallery Thumb 10"></a>
-							<a href="images/galeria10.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/galeria10.jpg" alt="Gallery Thumb 11"></a>
-							<a href="images/galeria11.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/galeria11.jpg" alt="Gallery Thumb 12"></a>
 							<a href="images/galeria12.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/galeria12.jpg" alt="Gallery Thumb 13"></a>
 							<a href="images/galeria13.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/galeria13.jpg" alt="Gallery Thumb 14"></a>
 							<a href="images/galeria14.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/galeria14.jpg" alt="Gallery Thumb 15"></a>
 							<a href="images/galeria15.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/galeria15.jpg" alt="Gallery Thumb 15"></a>
 							<a href="images/galeria-17.png" data-lightbox="gallery-item"><img class="image_fade" src="images/galeria-17.png" alt="Gallery Thumb 15"></a>
 							<a href="images/galeria-18.png" data-lightbox="gallery-item"><img class="image_fade" src="images/galeria-18.png" alt="Gallery Thumb 15"></a>
-							<a href="images/galeria2018.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/galeria2018.jpg" alt="Gallery Thumb 15"></a>
-							<a href="images/asesoria-lau.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/asesoria-lau.jpg" alt="Gallery Thumb 15"></a>
-							<a href="images/asesoria.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/asesoria.jpg" alt="Gallery Thumb 15"></a>
 							<a href="images/es-noticia.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/es-noticia.jpg" alt="Gallery Thumb 15"></a>
-							<a href="images/iconos.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/iconos.jpg" alt="Gallery Thumb 15"></a>
 							<a href="images/itam.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/itam.jpg" alt="Gallery Thumb 15"></a>
 							<a href="images/radio.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/radio.jpg" alt="Gallery Thumb 15"></a>
-							<a href="images/tec.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/tec.jpg" alt="Gallery Thumb 15"></a>
 							<a href="images/tec2.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/tec2.jpg" alt="Gallery Thumb 15"></a>
 							<a href="images/tv.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/tv.jpg" alt="Gallery Thumb 15"></a>
 							<a href="images/tv2.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/tv2.jpg" alt="Gallery Thumb 15"></a>
@@ -431,7 +431,6 @@
 						</div>
 
 						<div style="clear: both;"></div>
-
 
 						<h3 class="center-align nobottommargin">Videos</h3>
 
