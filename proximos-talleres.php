@@ -73,21 +73,30 @@
 				</div><!--.col s12-->
 
 				<!--.Slider-->
-					<div class="owl-carousel owl-theme bottommargin">
-						<div class="item"><img src="images/proximos-talleres.jpg" alt="Slider"></div>
-						<div class="item"><img src="images/proximos-talleres2.jpg" alt="Slider"></div>
-					</div><!--.owl-carousel owl-theme-->
+				<div class="owl-carousel owl-theme bottommargin">
+					<div class="item"><img src="images/proximos-talleres.jpg" alt="Slider"></div>
+					<div class="item"><img src="images/proximos-talleres2.jpg" alt="Slider"></div>
+				</div><!--.owl-carousel owl-theme-->
 
 				<div class="container">
 
-					<h4 class="center-align">Taller de Imagen Personal</h4>
-					<p class="center-align">15 de junio de 2018<br />6 de julio de 2018<br />27 de julio de 2018<br />17 de agosto de 2018<br />7 de septiembre de 2018<br />28 de septiembre de 2018<br />26 de octubre de 2018<br />23 de noviembre de 2018<br />14 de diciembre de 2018</p>
-					<h4 class="center-align">Taller de Imagen Verbal y No Verbal</h4>
-					<p class="center-align">22 de junio de 2018<br />13 de julio de 2018<br />3 de agosto de 2018<br />24 de agosto de 2018<br />14 de septiembre de 2018<br />5 de octubre de 2018<br />9 de noviembre de 2018<br />30 de noviembre de 2018</p>
-					<h4 class="center-align">Taller de Imagen y Protocolo Profesional</h4>
-					<p class="center-align">29 de junio de 2018<br />20 de julio de 2018<br />10 de agosto de 2018<br />31 de agosto de 2018<br />21 de septiembre de 2018<br />19 de octubre de 2018<br />16 de noviembre de 2018<br />7 de diciembre de 2018</p>
-					<h4 class="center-align">Taller de Automaquillaje</h4>
-					<p class="center-align">28 de julio de 2018<br />18 de agosto de 2018<br />29 de septiembre de 2018<br />27 de octubre de 2018<br />14 de noviembre de 2018<br />15 de diciembre de 2018</p>
+					<h4 class="center-align">IMAGEN PERSONAL</h4>
+					<p class="center-align">Viernes 11 de enero de 2019<br />Viernes 1 de febrero de 2019<br />Viernes 22 de febrero de 2019<br />Viernes 15 de marzo de 2019<br />Viernes 5 de abril de 2019<br />Viernes 3 de mayo de 2019<br />Viernes 10 de mayo de 2019<br />Viernes 31 de mayo de 2019 <br />Viernes 21 de junio de 2019</p>
+
+					<h4 class="center-align">AUTOMAQUILLAJE</h4>
+					<p class="center-align">Sábado 12 de enero de 2019<br />Sábado 2 de febrero de 2019<br />Sábado 23 de febrero de 2019<br />Sábado 16 de marzo de 2019<br />Sábado 6 de abril de 2019<br />Sábado 4 de mayo de 2019<br />Sábado 11 de mayo de 2019<br />Sábado 1 de junio de 2019<br />Sábado 22 de junio de 2019</p>
+
+					<h4 class="center-align">IMAGEN VERBAL Y NO VERBAL</h4>
+					<p class="center-align">Viernes 18 de enero de 2019<br />Viernes 8 de febrero de 2019<br />Viernes 1 de marzo de 2019<br />Viernes 22 de marzo de 2019<br />Viernes 12 de abril de 2019<br />Viernes 17 de mayo de 2019<br />Viernes 7 de junio de 2019<br />Viernes 28 de junio de 2019</p>
+
+					<h4 class="center-align">BUSCA CHAMBA</h4>
+					<p class="center-align">Miércoles 23 de enero de 2019<br />Miércoles 13 de febrero de 2019<br />Miércoles 6 de marzo de 2019<br />Miércoles 27 de marzo de 2019<br />Miércoles 24 de abril de 2019<br />Miércoles 22 de mayo de 2019<br />Miércoles 12 de junio de 2019<br />Miércoles 3 de julio de 2019</p>
+
+					<h4 class="center-align">IMAGEN Y PROTOCOLO PROFESIONAL</h4>
+					<p class="center-align">Viernes 25 de enero de 2019<br />Viernes 15 de febrero de 2019<br />Viernes 8 de marzo de 2019<br />Viernes 29 de marzo de 2019<br />Viernes 26 de abril de 2019<br />Viernes 24 de mato de 2019<br />Viernes 14 de junio de 2019<br />Viernes 5 de julio de 2019</p>
+
+					<div class="divider"></div>
+
 					<p class="center-align">Martes de Asesorías de Imagen Personal</p>
 					<p class="center-align">Miércoles de Asesorías de Imagen y Protocolo Profesional</p>
 					<p class="center-align">Jueves de Asesorías de Imagen Verbal y No Verbal</p>
