@@ -291,50 +291,50 @@
 						</div><!--.row-->
 
 						<div class="row hide-on-large-only nobottommargin" align="center">
-							<div class="col s12 m4 l4">
+							<div class="col s6 m4 l4">
 								<a href="/imagen-profesional">
 									<img src="images/profesional-boton-servicios-hover-08.jpg" class="responsive-img">
 								</a>
 								
 							</div>
-							<div class="col s12 m4 l4">
+							<div class="col s6 m4 l4">
 								<a href="/atencion-al-cliente">
 									<img src="images/atencion-boton-servicios-hover-08.jpg" class="responsive-img">
 								</a>
 								
 							</div>
-							<div class="col s12 m4 l4">
+							<div class="col s6 m4 l4">
 								<a href="/imagen-verbal-y-no-verbal">
 									<img src="images/verbal-boton-servicios-hover-08.jpg" class="responsive-img">
 								</a>							
 								
 							</div>
-							<div class="col s12 m4 l4">
+							<div class="col s6 m4 l4">
 								<a href="/imagen-personal">
 									<img src="images/personal-boton-servicios-hover-08.jpg" class="responsive-img">
 								</a>
 							</div>
-							<div class="col s12 m4 l4">
+							<div class="col s6 m4 l4">
 								<a href="/personal-shopper">
 									<img src="images/shopper-boton-servicios-hover-08.jpg" class="responsive-img">
 								</a>
 							</div>
-							<div class="col s12 m4 l4">
+							<div class="col s6 m4 l4">
 								<a href="/imagen-politica">
 									<img src="/images/politica-boton-servicios-hover-08.jpg" class="responsive-img">
 								</a>
 							</div>
-							<div class="col s12 m4 l4">
+							<div class="col s6 m4 l4">
 								<a href="/imagen-ambiental">
 									<img src="images/ambiental-boton-servicios-hover-08.jpg" class="responsive-img">
 								</a>
 							</div>
-							<div class="col s12 m4 l4">
+							<div class="col s6 m4 l4">
 								<a href="/imagen-digital">
 									<img src="images/digital-boton-servicios-hover-08.jpg" class="responsive-img">
 								</a>
 							</div>
-							<div class="col s12 m4 l4">
+							<div class="col s6 m4 l4 offset-s3">
 								<a href="/proximos-talleres">
 									<img src="images/corporativa-boton-servicios-hover-08.jpg" class="responsive-img">
 								</a>
@@ -459,7 +459,7 @@
 
 					<div class="bg-contacto" id="contacto">
 
-						<div class="contact-widget">
+						<div class="contact-widget container">
 
 							<div class="contact-form-result"></div>
 
@@ -698,5 +698,6 @@
 	    });
 	</script>
 
+	<?php include './jivosite.php'; ?>
 </body>
 </html>

@@ -76,7 +76,7 @@
 							<h2 class="center-align"><?php echo $title ?></h2>
 						</div>
 						<div class="col s12 m6 l6">
-							<h3 class="center-align"><i>¿Sabías que tu cuerpo, la vestimenta y los accesorios que usas también comunican algo a los demás?</i></h3>
+							<h4 class="center-align"><i>¿Sabías que tu cuerpo, la vestimenta y los accesorios que usas también comunican algo a los demás?</i></h4>
 							<p class="justify-align">En la imagen personal es importante conocer quiénes somos, qué estilo tenemos, cuál es nuestro tipo de cuerpo y rostro y qué colores son los que nos quedan, para así comunicar eficientemente al mundo nuestros objetivos y nuestra personalidad.</p>
 							<p class="justify-align">¿Qué quieres comunicar?, ¿estás seguro que realmente proyectas lo que deseas? El 83% de las decisiones que tomamos los seres humanos nacen de la vista, es por ello que es importante ser coherentes en los mensajes que deseas transmitir a tu receptor.</p>
 						</div><!--.col s12 m6 l6-->
@@ -335,5 +335,6 @@
 		})
 	</script>
 
+	<?php include './jivosite.php'; ?>
 </body>
 </html>

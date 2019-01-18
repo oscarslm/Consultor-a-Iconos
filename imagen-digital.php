@@ -72,8 +72,8 @@
 
 					<div class="col s12">
 						<h2 class="center-align topmargin-sm"><i><?php echo $title ?></i></h2>
-						<h3 class="center-align"><i class="font300">¿Te gustaría tener mayor captación de clientes por medio de tu imagen?</i><br>
-						<i>Nos encargamos de posicionar su presencia dentro del mundo virtual, cuidando la coherencia de lo que quieren proyectar y comunicándolo a la audiencia necesaria.</i></h3>
+						<h4 class="center-align"><i class="font300">¿Te gustaría tener mayor captación de clientes por medio de tu imagen?</i><br>
+						<i>Nos encargamos de posicionar su presencia dentro del mundo virtual, cuidando la coherencia de lo que quieren proyectar y comunicándolo a la audiencia necesaria.</i></h4>
 					</div>
 
 					<div class="row center bottommargin">
@@ -121,5 +121,6 @@
 	============================================= -->
 	<script type="text/javascript" src="js/functions.js"></script>
 
+	<?php include './jivosite.php'; ?>
 </body>
 </html>

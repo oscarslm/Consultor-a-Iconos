@@ -112,5 +112,6 @@
 	============================================= -->
 	<script type="text/javascript" src="js/functions.js"></script>
 
+	<?php include './jivosite.php'; ?>
 </body>
 </html>

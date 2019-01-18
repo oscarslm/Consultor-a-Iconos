@@ -81,7 +81,7 @@
 					</div><!--.owl-carousel owl-theme-->
 
 					<h3 class="center-align nobottommargin"><i>¡Somos especialistas en hacerte sentir como te mereces!</i></h3>
-					<h2 class="center-align"><i>¿Qué estás esperando para probar nuestros talleres y asesorías?</i></h2>
+					<h4 class="center-align"><i>¿Qué estás esperando para probar nuestros talleres y asesorías?</i></h4>
 
 					<h3 class="nobottommargin"><i>Un buen servicio al cliente</i></h3>
 
@@ -150,5 +150,6 @@
 		})
 	</script>
 
+	<?php include './jivosite.php'; ?>
 </body>
 </html>

@@ -81,8 +81,8 @@
 						<div class="item"><img src="images/shoppe3-banner-servicios.jpg" alt="Slider"></div>
 					</div><!--.owl-carousel owl-theme-->
 
-					<h3 class="center-align nobottommargin"><i>¿Comprar te causa más terror que satisfacción? ¿No sabes qué te queda mejor?</i></h3>
-					<h3 class="center-align"><i>¡Nuestro servicio de personal shopper es la opción para ti!</i></h3>
+					<h4 class="center-align nobottommargin"><i>¿Comprar te causa más terror que satisfacción? ¿No sabes qué te queda mejor?</i></h4>
+					<h4 class="center-align"><i>¡Nuestro servicio de personal shopper es la opción para ti!</i></h4>
 					<p class="justify-align">Aprenderás a comprar sin miedo a que no te quede la ropa , recuerda que más allá de la marca, lo importante es elegir ropa de calidad para que te veas y te sientas mejor, nos encargamos de realizar compras acorde al evento, a tu estilo y a tu personalidad, te acompañaremos y asesoraremos en cada momento.</p>
 					<h4 class="center-align"><i>¿No sabes qué regalar? ¿Qué escribir en la tarjeta de felicitación?</i></h4>
 					<p class="bottommargin">También ofrecemos el servicio de compra y personificación de regalos, tarjetas de felicitación y agradecimientos.</p>
@@ -141,5 +141,6 @@
 		})
 	</script>
 
+	<?php include './jivosite.php'; ?>
 </body>
 </html>

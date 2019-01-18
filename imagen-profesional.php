@@ -71,7 +71,7 @@
 				<div class="container">
 					
 					<h2 class="center-align topmargin-sm nobottommargin"><i><?php echo $title ?></i></h2>
-					<h3 class="center-align"><i>Desarrollar estrategias y habilidades de comunicación que permitan favorecer la percepción que tiene el participante sobre sí mismo, la que tienen los demás sobre él y la existente sobre la institución mediante su desempeño</i>.</h3>
+					<h4 class="center-align"><i>Desarrollar estrategias y habilidades de comunicación que permitan favorecer la percepción que tiene el participante sobre sí mismo, la que tienen los demás sobre él y la existente sobre la institución mediante su desempeño</i>.</h4>
 
 					<div class="row">
 						<div class="col s12 m5 l5 xl5">
@@ -150,5 +150,6 @@
 	============================================= -->
 	<script type="text/javascript" src="js/functions.js"></script>
 
+	<?php include './jivosite.php'; ?>
 </body>
 </html>

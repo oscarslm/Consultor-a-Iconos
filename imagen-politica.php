@@ -74,7 +74,7 @@
 						<h2 class="center-align"><i><?php echo $title ?></i></h2>
 					</div>
 
-					<h3 class="center-align bottommargin"><i><span class="font300">Generar coherencia en la forma de actuar y ser para obtener la confianza y el apoyo de la audiencia,</span> el 85% de las decisiones son tomadas por los sentimientos.</i></h3>
+					<h4 class="center-align bottommargin"><i><span class="font300">Generar coherencia en la forma de actuar y ser para obtener la confianza y el apoyo de la audiencia,</span> el 85% de las decisiones son tomadas por los sentimientos.</i></h4>
 
 					<div class="row">
 
@@ -157,5 +157,6 @@
 	============================================= -->
 	<script type="text/javascript" src="js/functions.js"></script>
 
+	<?php include './jivosite.php'; ?>
 </body>
 </html>
