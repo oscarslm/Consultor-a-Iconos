@@ -169,7 +169,14 @@
 
         		<!-- START REVOLUTION SLIDER 5.0.7 fullwidth mode -->
         		<div id="rev_slider_2_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.0.7">
-        			<ul>	<!-- SLIDE  -->
+        			<ul>
+						<!-- SLIDE  -->
+        				<li data-index="rs-1" data-transition="zoomout" data-slotamount="default"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="include/rs-plugin/demos/assets/images/datcolor-60x60.jpg"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="Intro" data-description="">
+        					<!-- MAIN IMAGE -->
+        					<img src="images/taller-protocolo-banner.jpg"  alt="Taller de Protocolo"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+
+        				</li>
+        				<!-- SLIDE  -->
         				<li data-index="rs-1" data-transition="zoomout" data-slotamount="default"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="include/rs-plugin/demos/assets/images/datcolor-60x60.jpg"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="Intro" data-description="">
         					<!-- MAIN IMAGE -->
         					<img src="images/mezclilla-camisa-banner.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
@@ -417,7 +424,6 @@
 							<a href="images/galeria9.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/galeria9.jpg" alt="Gallery Thumb 10"></a>
 							<a href="images/galeria12.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/galeria12.jpg" alt="Gallery Thumb 13"></a>
 							<a href="images/galeria13.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/galeria13.jpg" alt="Gallery Thumb 14"></a>
-							<a href="images/galeria14.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/galeria14.jpg" alt="Gallery Thumb 15"></a>
 							<a href="images/galeria15.jpg" data-lightbox="gallery-item"><img class="image_fade" src="images/galeria15.jpg" alt="Gallery Thumb 15"></a>
 							<a href="images/galeria-17.png" data-lightbox="gallery-item"><img class="image_fade" src="images/galeria-17.png" alt="Gallery Thumb 15"></a>
 							<a href="images/galeria-18.png" data-lightbox="gallery-item"><img class="image_fade" src="images/galeria-18.png" alt="Gallery Thumb 15"></a>

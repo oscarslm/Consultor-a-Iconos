@@ -1,7 +1,5 @@
 	
-	<!-- BEGIN JIVOSITE CODE {literal} -->
-	<script type='text/javascript'>
-	(function(){ var widget_id = 'q4ToyU5XPR';var d=document;var w=window;function l(){var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();
+	<script type="text/javascript">
+		(function(){var ldk=document.createElement('script'); ldk.type='text/javascript'; ldk.async=true; ldk.src='https://s.cliengo.com/weboptimizer/592da1fae4b07da295e39bb8/592da200e4b07da295e39bc2.js'; var s=document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ldk, s);})();
 	</script>
-	<!-- {/literal} END JIVOSITE CODE -->
 	
