@@ -146,6 +146,8 @@
 
 	<script src='https://www.google.com/recaptcha/api.js'></script>
 
+	<meta name="google-site-verification" content="f4MC-LpHa01lHUsDqASv6QvqyVVikOso2IM3LLlzQkg" />
+
 </head>
 
 <body class="stretched no-transition animated fadeIn" data-loader-color="#00cdbd">
@@ -174,6 +176,12 @@
         				<li data-index="rs-1" data-transition="zoomout" data-slotamount="default"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="include/rs-plugin/demos/assets/images/datcolor-60x60.jpg"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="Intro" data-description="">
         					<!-- MAIN IMAGE -->
         					<img src="images/taller-protocolo-banner.jpg"  alt="Taller de Protocolo"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+
+        				</li>
+						<!-- SLIDE  -->
+        				<li data-index="rs-1" data-transition="zoomout" data-slotamount="default"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="include/rs-plugin/demos/assets/images/datcolor-60x60.jpg"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="Intro" data-description="">
+        					<!-- MAIN IMAGE -->
+        					<img src="images/banner-mama2.jpg"  alt="Taller de Protocolo"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
 
         				</li>
         				<!-- SLIDE  -->
