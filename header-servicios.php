@@ -15,10 +15,10 @@
 			============================================= -->
 			<div id="top-social">
 				<ul>
-					<li><a href="https://www.facebook.com/IconosCIP" class="si-facebook" data-hover-width="109" target="_blank"><span class="ts-icon"><i class="icon-facebook"></i></span><span class="ts-text">Facebook</span></a></li>
-					<li><a href="https://twitter.com/IconosCIP" class="si-twitter" data-hover-width="95" target="_blank"><span class="ts-icon"><i class="icon-twitter"></i></span><span class="ts-text">Twitter</span></a></li>
-					<li><a href="https://www.youtube.com/channel/UCeyv9L0FuKYS78rHu6-TYww" class="si-youtube" data-hover-width="103" target="_blank"><span class="ts-icon"><i class="icon-youtube"></i></span><span class="ts-text">YouTube</span></a></li>
-					<li><a href="https://www.instagram.com/IconosCIP/" class="si-instagram" data-hover-width="111" target="_blank"><span class="ts-icon"><i class="icon-instagram2"></i></span><span class="ts-text">Instagram</span></a></li>
+					<li><a href="http://www.facebook.com/IconosCIP" class="si-facebook" data-hover-width="109" target="_blank"><span class="ts-icon"><i class="icon-facebook"></i></span><span class="ts-text">Facebook</span></a></li>
+					<li><a href="http://twitter.com/IconosCIP" class="si-twitter" data-hover-width="95" target="_blank"><span class="ts-icon"><i class="icon-twitter"></i></span><span class="ts-text">Twitter</span></a></li>
+					<li><a href="http://www.youtube.com/channel/UCeyv9L0FuKYS78rHu6-TYww" class="si-youtube" data-hover-width="103" target="_blank"><span class="ts-icon"><i class="icon-youtube"></i></span><span class="ts-text">YouTube</span></a></li>
+					<li><a href="http://www.instagram.com/imagen_iconos" class="si-instagram" data-hover-width="111" target="_blank"><span class="ts-icon"><i class="icon-instagram2"></i></span><span class="ts-text">Instagram</span></a></li>
 					<li><a href="https://consultoriaiconos.wordpress.com" class="si-wordpress" data-hover-width="111" target="_blank"><span class="ts-icon"><i class="icon-wordpress"></i></span><span class="ts-text">Wordpress</span></a></li>
 					<li><a href="tel:(55) 6360 4389" class="si-call" data-hover-width="156"><span class="ts-icon"><i class="icon-call"></i></span><span class="ts-text">(55) 6360 4389</span></a></li>
 					<li><a href="tel:(55) 4554 2668" class="si-call" data-hover-width="156"><span class="ts-icon"><i class="icon-phone"></i></span><span class="ts-text">044 (55) 4554 2668</span></a></li>
