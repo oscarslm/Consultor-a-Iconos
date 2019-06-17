@@ -40,31 +40,27 @@
 
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<!--[if lt IE 9]>
-		<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
-		<![endif]-->
+	<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+	<![endif]-->
 
-		<!-- SLIDER REVOLUTION 5.x CSS SETTINGS -->
-		<link rel="stylesheet" type="text/css" href="include/rs-plugin/css/settings.css" media="screen" />
-		<link rel="stylesheet" type="text/css" href="include/rs-plugin/css/layers.css">
-		<link rel="stylesheet" type="text/css" href="include/rs-plugin/css/navigation.css">
-
+	<!-- SLIDER REVOLUTION 5.x CSS SETTINGS -->
+	<link rel="stylesheet" type="text/css" href="include/rs-plugin/css/settings.css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="include/rs-plugin/css/layers.css">
+	<link rel="stylesheet" type="text/css" href="include/rs-plugin/css/navigation.css">
 
 	<!-- Document Title
 	============================================= -->
 	<title><?php echo $title ?> | <?php echo EMPRESA; ?></title>
 
 	<style>
-
 		.demos-filter {
 			margin: 0;
 			text-align: right;
 		}
-
 		.demos-filter li {
 			list-style: none;
 			margin: 10px 0px;
 		}
-
 		.demos-filter li a {
 			display: block;
 			border: 0;
@@ -72,10 +68,8 @@
 			letter-spacing: 1px;
 			color: #444;
 		}
-
 		.demos-filter li a:hover,
 		.demos-filter li.activeFilter a { color: #1ABC9C; }
-
 		@media (max-width: 991px) {
 			.demos-filter { text-align: center; }
 
@@ -85,11 +79,9 @@
 				padding: 0 20px;
 			}
 		}
-
 		@media (max-width: 767px) {
 			.demos-filter li { width: 50%; }
 		}
-
 		.revo-slider-emphasis-text {
 			font-size: 64px;
 			font-weight: 700;
@@ -99,7 +91,6 @@
 			border-top: 2px solid #FFF;
 			border-bottom: 2px solid #FFF;
 		}
-
 		.revo-slider-desc-text {
 			font-size: 20px;
 			font-family: 'Lato', sans-serif;
@@ -107,7 +98,6 @@
 			text-align: center;
 			line-height: 1.5;
 		}
-
 		.revo-slider-caps-text {
 			font-size: 16px;
 			font-weight: 400;
@@ -115,14 +105,11 @@
 			font-family: 'Raleway', sans-serif;
 		}
 		.tp-video-play-button { display: none !important; }
-
 		.tp-caption { white-space: nowrap; }
-
 		.swiper-container {
 	        width: 100%;
 	        height: 100%;
 	    }
-
 	    .swiper-slide {
 	        text-align: center;
 	        font-size: 18px;
@@ -141,7 +128,6 @@
 	        -webkit-align-items: center;
 	        align-items: center;
 	    }
-
 	</style>
 
 	<script src='https://www.google.com/recaptcha/api.js'></script>
