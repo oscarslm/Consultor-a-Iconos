@@ -108,16 +108,16 @@
 						<div class="col s12 m12 l6 xl4">
 							<div class="tarjeta rosa1" data-animate="fadeInLeft">
 								<h4 class="center-align">Imagen express</h4>
-								<p class="center-align"><i>¿Qué te gustaría comunicar de acuerdo a tus gustos y la actividad que desarrollas?</i></p>
-								<p class="justify-align">Realizaremos una precompra de una hora en la que podrás hacer diferentes cambios de ropa y observar qué es lo que mejor te queda acorde a tu tipo de cuerpo y rostro.</p>
+								<p class="center-align">Se busca conocer tus intereses personales o profesionales para que descubras lo que estás comunicando mediante tu cuerpo y vestimenta.</p>
+								<p class="justify-align">Te explicaremos cuál es tu tipo de cuerpo y rostro, aprenderás a vestirte acorde a él para generar el balance necesario que te permita sentirte y verte hermosa.</p>
 								<p class="center-align nobottommargin"><strong>Tiene una duración de 2 horas</strong>.</p>
 							</div><!--.tarjeta-->
 						</div><!--.col s12 m12 l6 xl4-->
 						<div class="col s12 m12 l6 xl4">
 							<div class="tarjeta gris" data-animate="fadeInDown">
 								<h4 class="center-align">Mujer moderna</h4>
-								<p class="center-align"><i>¿Qué estás comunicando mediante tu cuerpo y vestimenta?</i></p>
-								<p class="justify-align">Te explicaremos cuál es tu tipo de cuerpo y rostro, aprenderás a vestirte acorde a él para generar el balance necesario que te permita sentirte y verte hermosa.</p>
+								<p class="center-align">Se realizará un test con la finalidad de conocer tus gustos en vestimenta y la actividad que desarrollas.</p>
+								<p class="justify-align">Realizaremos una precompra de una hora en la que podrás hacer diferentes cambios de ropa y observar qué es lo que mejor te queda acorde a tu tipo de cuerpo y rostro.</p>
 								<p class="center-align nobottommargin"><strong>Tiene una duración de 3 horas y media</strong>.</p>	
 							</div><!--.tarjeta-->
 						</div><!--.col s12 m12 l6 xl4-->
@@ -148,24 +148,24 @@
 						<div class="col s12 m12 l6 xl4">
 							<div class="tarjeta rosa1" data-animate="fadeInRight">
 								<h4 class="center-align">Mujer sociable</h4>
-								<p class="center-align"><i>¿Cómo te gusta vestir y qué comunicas?</i></p>
-								<p class="justify-align">Te brindaremos información para comunicarte eficientemente con tus amistades en reuniones y se te darán consejos de protocolo para eventos sociales.</p>
-								<p class="center-align nobottommargin"><strong>Tiene una duración de 6 horas</strong>.</p>
+								<p class="center-align"><i>¿Cómo te gusta vestir y qué comunicas?</i></p>
+								<p class="justify-align">Te brindaremos información para comunicarte eficientemente con tus amistades en reuniones y se te darán consejos de protocolo para eventos sociales.</p>
+								<p class="center-align nobottommargin"><strong>Tiene una duración de 7 horas</strong>.</p>
 							</div><!--.tarjeta-->
 						</div><!--.col s12 m12 l6 xl4-->
 						<div class="col s12 m12 l6 xl4">
-							<div class="tarjeta rosa1" data-animate="fadeInLeft">
-								<h4 class="center-align">Mujer madura (40+)</h4>
-								<p class="center-align"><i>¿Cuál es tu tipo de cuerpo y rostro?</i></p>
-								<p class="justify-align">Sabrás cuáles son los colores que más te quedan mediante un análisis exprés de color, aprenderás a vestirte sin dejar a un lado tu estilo y personalidad.</p>
-								<p class="center-align nobottommargin"><strong>Tiene una duración de 4 horas</strong>.</p>
+							<div class="tarjeta rosa2" data-animate="fadeInLeft">
+								<h4 class="center-align">Mujer Madura (40+)</h4>
+								<p class="center-align"><i>¿Cuáles son los tonos que hacen lucir tu piel más joven?</i></p>
+								<p class="justify-align">Te brindaremos consejos de maquillaje y vestimenta, podrás elegir entre una hora de personal shopper o de análisis de clóset.</p>
+								<p class="center-align nobottommargin"><strong>Tiene una duración de 5 horas y media.</strong></p>
 							</div><!--.tarjeta-->
 						</div><!--.col s12 m12 l6 xl4-->
 						<div class="col s12 m12 l6 xl4">
 							<div class="tarjeta gris" data-animate="fadeInUp">
-								<h4 class="center-align">¡De fiesta!</h4>
-								<p class="center-align"><i>¿Tienes un evento y no sabes qué ponerte?</i></p>
-								<p>Platicaremos sobre el evento y después te acompañaremos una hora de compras para que puedas escoger la vestimenta ideal.</p>
+								<h4 class="center-align">Personal Shopper</h4>
+								<p class="center-align"><i>¿Tienes un evento y no sabes qué ponerte?</i></p>
+								<p class="justify-align">Platicaremos sobre el evento y después te acompañaremos una hora de compras para que puedas escoger la vestimenta ideal.</p>
 								<p class="center-align nobottommargin"><strong>Tiene una duración de 1 hora y media</strong>.</p>
 							</div><!--.tarjeta-->
 						</div><!--.col s12 m12 l6 xl4-->
@@ -175,28 +175,6 @@
 								<p class="center-align"><i>¿Ya no te gusta nada de lo que te pones?</i></p>
 								<p class="justify-align">Dos horas de análisis de clóset y dos horas de personal shopper serán las que te ayuden a renovar tu vestimenta completamente y a lucir increíble.</p>
 								<p class="center-align nobottommargin"><strong>Tiene una duración de 4 horas</strong>.</p>
-							</div><!--.tarjeta-->
-						</div><!--.col s12 m12 l6 xl4-->
-						<div class="col s12 m12 l6 xl4">
-							<div class="tarjeta">
-								<h4 class="center-align"></h4>
-								<p class="center-align"></p>
-								<p class="justify-align"></p>	
-							</div><!--.tarjeta-->
-						</div><!--.col s12 m12 l6 xl4-->
-						<div class="col s12 m12 l6 xl4">
-							<div class="tarjeta gris" data-animate="fadeInUp">
-								<h4 class="center-align">Mujer bohemia (50+)</h4>
-								<p class="center-align"><i>¿Cuáles son los tonos que hacen lucir tu piel más joven?</i></p>
-								<p class="justify-align">Te brindaremos consejos de maquillaje y vestimenta, podrás elegir entre una hora de personal shopper o de limpieza de clóset.</p>
-								<p class="center-align nobottommargin"><strong>Tiene una duración de 5 horas y media</strong>.</p>
-							</div><!--.tarjeta-->
-						</div><!--.col s12 m12 l6 xl4-->
-						<div class="col s12 m12 l6 xl4">
-							<div class="tarjeta">
-								<h4 class="center-align"></h4>
-								<p class="center-align"></p>
-								<p class="justify-align"></p>	
 							</div><!--.tarjeta-->
 						</div><!--.col s12 m12 l6 xl4-->
 					</div><!--.row-->
