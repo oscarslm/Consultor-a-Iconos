@@ -1,7 +1,5 @@
 <?php
 include './setup.php';
-// Using Medoo namespace
-use Medoo\Medoo;
 ?>
 <!DOCTYPE html>
 <html dir="ltr" lang="<?php echo IDIOMA; ?>">
