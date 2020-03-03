@@ -1,16 +1,12 @@
 <?php
 include './setup.php';
+$title = "Inicio";
+$desc = "Empresa enfocada en ayudarte a proyectar adecuadamente para que logres tus objetivos personales y profesionales.";
+$kw = "Consultoría de imagen pública, Iconos, Consultoría Iconos, Imagen pública, Imagen de personal, Imagen física, Cursos de imagen, Clases de imagen personal, Imagen corporativa, Asesoría de imagen personal, Imagen profesional, Asesoría de imagen, Asesores de imagen, Lenguaje corporal, Imagen personal, Imagen profesional";
 ?>
 <!DOCTYPE html>
 <html dir="ltr" lang="<?php echo IDIOMA; ?>">
 <head>
-
-	<?php 
-	$title = "Inicio";
-	$desc = "Empresa enfocada en ayudarte a proyectar adecuadamente para que logres tus objetivos personales y profesionales.";
-	$kw = "Consultoría de imagen pública, Iconos, Consultoría Iconos, Imagen pública, Imagen de personal, Imagen física, Cursos de imagen, Clases de imagen personal, Imagen corporativa, Asesoría de imagen personal, Imagen profesional, Asesoría de imagen, Asesores de imagen, Lenguaje corporal, Imagen personal, Imagen profesional";
-	?>
-
 	<!-- FavIcon
 	============================================= -->
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
@@ -161,24 +157,19 @@ include './setup.php';
         		<div id="rev_slider_2_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.0.7">
         			<ul>
         				<!-- SLIDE  -->
-        				<li data-index="rs-1" data-transition="zoomout" data-slotamount="default"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="images/banner-buen-fin.jpg"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="Intro" data-description="Asesorías Buen Fin">
+        				<li data-index="rs-2" data-transition="zoomout" data-slotamount="default"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="images/banner-6-mar.jpg"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="Imagen Y PROTOCOLO PROFESIONAL" data-description="Taller de Imagen Verbal y No Verbal">
         					<!-- MAIN IMAGE -->
-        					<img src="images/banner-buen-fin.jpg"  alt="Asesorías Buen Fin"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+        					<img src="images/banner-6-mar.jpg"  alt="Taller de Imagen Verbal y No Verbal"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
         				</li>
         				<!-- SLIDE  -->
-        				<li data-index="rs-2" data-transition="zoomout" data-slotamount="default"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="images/banner-ipp-15.jpg"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="Intro" data-description="Taller de Imagen y Protocolo Profesional">
+        				<li data-index="rs-2" data-transition="zoomout" data-slotamount="default"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="images/banner_medidanueva-pp.jpg"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="Imagen Personal" data-description="Taller de Imagen y Protocolo Profesional">
         					<!-- MAIN IMAGE -->
-        					<img src="images/banner-ipp-15.jpg"  alt="Taller de Imagen y Protocolo Profesional"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+        					<img src="images/banner_medidanueva-pp.jpg"  alt="Taller de Imagen y Protocolo Profesional"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
         				</li>
         				<!-- SLIDE  -->
-        				<li data-index="rs-2" data-transition="zoomout" data-slotamount="default"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="images/banner-ip-22.jpg"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="Intro" data-description="Taller de Imagen y Protocolo Profesional">
+        				<li data-index="rs-2" data-transition="zoomout" data-slotamount="default"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="images/banner-ip-gdl.jpg"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="Imagen Personal en Guadalajara" data-description="Taller de Imagen Personal en Guadalajara">
         					<!-- MAIN IMAGE -->
-        					<img src="images/banner-ip-22.jpg"  alt="Taller de Imagen y Protocolo Profesional"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-        				</li>
-        				<!-- SLIDE  -->
-        				<li data-index="rs-2" data-transition="zoomout" data-slotamount="default"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="images/banner-posada-1.jpg"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="Intro" data-description="Taller de Imagen y Protocolo Profesional">
-        					<!-- MAIN IMAGE -->
-        					<img src="images/banner-posada-1.jpg"  alt="Taller de Imagen y Protocolo Profesional"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+        					<img src="images/banner-ip-gdl.jpg"  alt="Taller de Imagen Personal en Guadalajara"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
         				</li>
         				<!-- SLIDE  -->
         				<li data-index="rs-3" data-transition="zoomout" data-slotamount="default"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="images/mezclilla-camisa-banner.jpg"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="Intro" data-description="">
