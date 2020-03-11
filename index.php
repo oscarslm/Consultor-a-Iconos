@@ -157,11 +157,6 @@ $kw = "Consultoría de imagen pública, Iconos, Consultoría Iconos, Imagen púb
         		<div id="rev_slider_2_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.0.7">
         			<ul>
         				<!-- SLIDE  -->
-        				<li data-index="rs-2" data-transition="zoomout" data-slotamount="default"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="images/banner-6-mar.jpg"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="Imagen Y PROTOCOLO PROFESIONAL" data-description="Taller de Imagen Verbal y No Verbal">
-        					<!-- MAIN IMAGE -->
-        					<img src="images/banner-6-mar.jpg"  alt="Taller de Imagen Verbal y No Verbal"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-        				</li>
-        				<!-- SLIDE  -->
         				<li data-index="rs-2" data-transition="zoomout" data-slotamount="default"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="images/banner_medidanueva-pp.jpg"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="Imagen Personal" data-description="Taller de Imagen y Protocolo Profesional">
         					<!-- MAIN IMAGE -->
         					<img src="images/banner_medidanueva-pp.jpg"  alt="Taller de Imagen y Protocolo Profesional"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
