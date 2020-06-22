@@ -157,14 +157,14 @@ $kw = "Consultoría de imagen pública, Iconos, Consultoría Iconos, Imagen púb
         		<div id="rev_slider_2_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.0.7">
         			<ul>
         				<!-- SLIDE  -->
-        				<li data-index="rs-1" data-transition="zoomout" data-slotamount="default"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="images/1.png"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="Webinar Express" data-description="Webinar Express">
+        				<li data-index="rs-1" data-transition="zoomout" data-slotamount="default"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="images/cursos-junio1.png"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="Webinar Express" data-description="Webinar Express">
         					<!-- MAIN IMAGE -->
-        					<img src="images/1.png"  alt="Webinar Express"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+        					<img src="images/cursos-junio1.png"  alt="Webinar Express"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
         				</li>
         				<!-- SLIDE  -->
-        				<li data-index="rs-1" data-transition="zoomout" data-slotamount="default"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="images/2.png"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="Webinar Express" data-description="Webinar Express">
+        				<li data-index="rs-1" data-transition="zoomout" data-slotamount="default"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="images/cursos-junio2.png"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="Webinar Express" data-description="Webinar Express">
         					<!-- MAIN IMAGE -->
-        					<img src="images/2.png"  alt="Webinar Express"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+        					<img src="images/cursos-junio2.png"  alt="Webinar Express"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
         				</li>
 						<!-- SLIDE  -->
         				<li data-index="rs-1" data-transition="zoomout" data-slotamount="default"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="images/banner-asesoria-ip.png"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="Asesoría Imagen Personal Express">
@@ -177,9 +177,9 @@ $kw = "Consultoría de imagen pública, Iconos, Consultoría Iconos, Imagen púb
         					<img src="images/banner-asesoria-ivnv.png"  alt="Asesoría de Imagen Verbal y No Verbal en Línea"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
         				</li>
         				<!-- SLIDE  -->
-        				<li data-index="rs-3" data-transition="zoomout" data-slotamount="default"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="images/banner-taller-ivnv.png"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="Taller de Imagen Verbal y No Verbal" data-description="Taller de Imagen Verbal y No Verbal">
+        				<li data-index="rs-3" data-transition="zoomout" data-slotamount="default"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="images/banner-taller-ip.png"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="Taller de Imagen Verbal y No Verbal" data-description="Taller de Imagen Verbal y No Verbal">
         					<!-- MAIN IMAGE -->
-        					<img src="images/banner-taller-ivnv.png"  alt="Asesoría de Imagen Personal Express en Línea"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+        					<img src="images/banner-taller-ip.png"  alt="Asesoría de Imagen Personal Express en Línea"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
         				</li>
         				<!-- SLIDE  -->
         				<li data-index="rs-4" data-transition="zoomout" data-slotamount="default"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="images/mezclilla-camisa-banner.jpg"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="Intro" data-description="">

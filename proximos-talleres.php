@@ -82,52 +82,60 @@
 
 					<h4 class="center-align">IMAGEN PERSONAL</h4>
 					<ul class="center-align">
-						<li>Viernes 10 de enero de 2020</li>
-						<li>Viernes 7 de febrero de 2020</li>
-						<li>Vábado 29 de febrero de 2020</li>
-						<li>Viernes 20 de marzo de 2020</li>
-						<li>Viernes 17 de abril de 2020</li>
-						<li>Viernes 15 de mayo de 2020</li>
-						<li>Viernes 5 de junio de 2020</li>
+						<li>Viernes 26 de junio</li>
+						<li>Viernes 17 de julio</li>
+						<li>Viernes 7 de agosto</li>
+						<li>Viernes 28 de agosto</li>
+						<li>Viernes 18 de septiembre</li>
+						<li>Viernes 9 de octubre</li>
+						<li>Viernes 30 de octubre</li>
+						<li>Viernes 20 de noviembre</li>
+						<li>Viernes 11 de diciembre</li>
 					</ul>
 
 					<h4 class="center-align">AUTOMAQUILLAJE</h4>
 					<ul class="center-align">
-						<li>Sábado 8 de febrero de 2020</li>
-						<li>Sábado 18 de abril de 2020</li>
-						<li>Sábado 6 de junio de 2020</li>
+						<li>Sábado 18 de julio</li>
+						<li>Sábado 29 de agosto</li>
+						<li>Sábado 19 de septiembre</li>
+						<li>Sábado 31 de octubre</li>
+						<li>Sábado 21 de noviembre</li>
 					</ul>
 
 					<h4 class="center-align">IMAGEN VERBAL Y NO VERBAL</h4>
 					<ul class="center-align">
-						<li>Viernes 24 de enero de 2020</li>
-						<li>Viernes 14 de febrero de 2020</li>
-						<li>Viernes 6 de marzo de 2020</li>
-						<li>Vábado 28 de marzo de 2020</li>
-						<li>Viernes 24 de abril de 2020</li>
-						<li>Viernes 22 de mayo de 2020</li>
-						<li>Viernes 12 de junio de 2020</li>
+						<li>Viernes 3 de julio</li>
+						<li>Viernes 24 de julio</li>
+						<li>Viernes 14 de agosto</li>
+						<li>Viernes 4 de septiembre</li>
+						<li>Viernes 25 de septiembre</li>
+						<li>Viernes 16 de octubre</li>
+						<li>Viernes 6 de noviembre</li>
+						<li>Viernes 27 de noviembre</li>
 					</ul>
 
 					<h4 class="center-align">IMAGEN Y PROTOCOLO PROFESIONAL</h4>
 					<ul class="center-align">
-						<li>Viernes 31 de enero de 2020</li>
-						<li>Viernes 21 de febrero de 2020</li>
-						<li>Viernes 13 de marzo de 2020</li>
-						<li>Viernes 3 de abril de 2020</li>
-						<li>Sábado 9 de mayo de 2020</li>
-						<li>Viernes 29 de mayo de 2020</li>
-						<li>Viernes 19 de junio de 2020</li>
+						<li>Viernes 10 de julio</li>
+						<li>Viernes 31 de julio</li>
+						<li>Viernes 21 de agosto</li>
+						<li>Viernes 11 de septiembre</li>
+						<li>Viernes 2 de octubre</li>
+						<li>Viernes 23 de octubre</li>
+						<li>Viernes 13 de noviembre</li>
+						<li>Viernes 4 de diciembre</li>
 					</ul>
 
 					<h4 class="center-align">ENCUENTRA CHAMBA</h4>
 					<ul class="center-align">
-						<li>Miércoles 22 de enero de 2020</li>
-						<li>Miércoles 12 de febrero de 2020</li>
-						<li>Miércoles 25 de marzo de 2020</li>
-						<li>Miércoles 22 de abril de 2020</li>
-						<li>Miércoles 20 de mayo de 2020</li>
-						<li>Miércoles 10 de junio de 2020</li>
+						<li>Miércoles 8 de julio</li>
+						<li>Miércoles 22 de julio</li>
+						<li>Miércoles 12 de agosto</li>
+						<li>Miércoles 2 de septiembre</li>
+						<li>Miércoles 23 de septiembre</li>
+						<li>Miércoles 14 de octubre</li>
+						<li>Miércoles 4 de noviembre</li>
+						<li>Miércoles 25 de noviembre</li>
 					</ul>
 
 					<div class="divider"></div>
